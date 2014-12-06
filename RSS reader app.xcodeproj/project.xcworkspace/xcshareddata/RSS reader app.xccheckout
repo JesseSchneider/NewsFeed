@@ -12,22 +12,34 @@
 	<dict>
 		<key>2EBE801489BD6A4453972567A4C69891CD019977</key>
 		<string>https://github.com/kervs/RSSReader.git</string>
+		<key>FAE86353A5DB27FF2696819EFCF59AA1C5742EC5</key>
+		<string>github.com:JesseSchneider/NewsFeed.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>RSS reader app.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2EBE801489BD6A4453972567A4C69891CD019977</key>
+		<string>../../../RSS%20reader%20app</string>
+		<key>FAE86353A5DB27FF2696819EFCF59AA1C5742EC5</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/kervs/RSSReader.git</string>
+	<string>github.com:JesseSchneider/NewsFeed.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2EBE801489BD6A4453972567A4C69891CD019977</string>
+	<string>FAE86353A5DB27FF2696819EFCF59AA1C5742EC5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FAE86353A5DB27FF2696819EFCF59AA1C5742EC5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewsFeed</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
